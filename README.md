@@ -16,11 +16,10 @@ Clone repo
 
 `node server.js`
 
-app runs at `http://localhost:3000/`
+app runs at `http://localhost:5555/`
 
 *Users can upload any file types and any size they wish.*
 
 ## License
 Free to use
 
-# simple-node-uploader
